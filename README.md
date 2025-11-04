@@ -3,10 +3,17 @@
   <img 
     src="https://github.com/user-attachments/assets/4b1c9645-8947-4355-b226-38636711dcee" 
     alt="Anwarul Karim - GitHub Banner" 
-    width="60%" 
-    style="border-radius: 12px; max-width: 850px; height: auto;" 
+    style="
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #0ea5e9;
+      box-shadow: 0 0 12px rgba(14, 165, 233, 0.4);
+    " 
   />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
