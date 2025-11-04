@@ -1,13 +1,11 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/4b1c9645-8947-4355-b226-38636711dcee" 
-    alt="Anwarul Karim - GitHub Banner" 
-    width="200" 
+   width="2463" height="2463" alt="anwrulkarim-photoaidcom-cropped" src="https://github.com/user-attachments/assets/faab0c0e-277f-400c-bae4-162c0967eebb" 
     style="border-radius:50%;border:3px solid #0ea5e9;" 
   />
 </p>
-<img width="2463" height="2463" alt="anwrulkarim-photoaidcom-cropped" src="https://github.com/user-attachments/assets/faab0c0e-277f-400c-bae4-162c0967eebb" />
+
 
 
 
