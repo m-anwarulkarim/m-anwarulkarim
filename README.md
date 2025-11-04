@@ -1,10 +1,11 @@
 <!-- ================= HEADER BANNER ================= -->
-<img src="[https://i.ibb.co/jRv0FNM/github-banner.png](https://github.com/user-attachments/assets/b300ed76-a536-4ca3-84aa-54d865a3e909)" alt="Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/30edd3fe-0747-42ea-a1fc-5745e03fd893" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">Frontend Developer | Learning Backend | Open Source & Web Enthusiast</h3>
 
 ---
+![anwrulkarim](https://github.com/user-attachments/assets/30edd3fe-0747-42ea-a1fc-5745e03fd893)
 
 ## 🧑‍💻 About Me
 🚀 I'm a passionate **Frontend Developer** currently expanding my skills into backend development.  
@@ -12,7 +13,7 @@
 🎯 Always learning, always improving — currently focused on **Next.js & Node.js**.  
 📌 Goal: Become a **Full-Stack Developer** within 2025.
 
----![anwrulkarim]()
+
 
 
 ## 🔥 What I'm Currently Doing
