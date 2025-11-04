@@ -1,5 +1,5 @@
 <!-- ================= HEADER BANNER ================= -->
-<img src="https://i.ibb.co/jRv0FNM/github-banner.png" alt="Banner" width="100%" />
+<img src="[https://i.ibb.co/jRv0FNM/github-banner.png](https://github.com/user-attachments/assets/b300ed76-a536-4ca3-84aa-54d865a3e909)" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">Frontend Developer | Learning Backend | Open Source & Web Enthusiast</h3>
@@ -12,7 +12,8 @@
 🎯 Always learning, always improving — currently focused on **Next.js & Node.js**.  
 📌 Goal: Become a **Full-Stack Developer** within 2025.
 
----
+---![anwrulkarim]()
+
 
 ## 🔥 What I'm Currently Doing
 - 🌱 Learning: **Node.js, Express, MongoDB**
