@@ -3,8 +3,8 @@
   <img 
     src="https://github.com/user-attachments/assets/4b1c9645-8947-4355-b226-38636711dcee" 
     alt="Anwarul Karim - GitHub Banner" 
-    width="100%" 
-    style="border-radius: 14px; max-width: 1050px;" 
+    width="60%" 
+    style="border-radius: 12px; max-width: 850px; height: auto;" 
   />
 </p>
 
