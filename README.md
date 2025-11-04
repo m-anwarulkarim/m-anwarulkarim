@@ -1,12 +1,13 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/f05c0b0a-1e8c-4b9c-a5de-2c45e03df899" 
+    src="https://github.com/user-attachments/assets/4b1c9645-8947-4355-b226-38636711dcee" 
     alt="Anwarul Karim - GitHub Banner" 
     width="100%" 
     style="border-radius: 14px; max-width: 1050px;" 
   />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
