@@ -18,23 +18,7 @@
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
 ---
-<p align="center">
-  <a href="https://www.facebook.com/1FxrU9QeiE/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nakibul-islam-b8684b37b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ahmednakib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🧑‍💻 About Me
 🚀 A passionate **Frontend Developer** exploring the world of backend technologies.  
@@ -44,6 +28,18 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/7935b121-9c6d-4971-9c0b-540e697db2b4" 
+    alt="Gradient Business Banner"
+    width="100%"
+    style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
+  />
+</p>
+
+![git]()
+
+
 ## 🔥 What I'm Currently Doing
 - 🌱 Learning: **Node.js, Express, MongoDB**
 - 🧪 Experimenting with: **Next.js + TypeScript**
@@ -51,6 +47,7 @@
 - 🎨 Exploring: **Design Systems & Scalable Architectures**
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -87,10 +84,15 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarul-karim&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarul-karim&theme=tokyonight" height="160" />
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=siamsheikh-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siamsheikh-cyber&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
+
+</div>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul-karim&layout=compact&theme=tokyonight" height="160" />
@@ -114,6 +116,27 @@
 - 🧑‍🏫 Mentor in 2+ student coding groups  
 - 🔍 Solved 100+ coding challenges (JS & React)
 
+
+
+
+<p align="center">
+  <a href="https://www.facebook.com/1FxrU9QeiE/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nakibul-islam-b8684b37b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ahmednakib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- Snake Game Repo View -->
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## 🎓 Certifications & Learning Path
