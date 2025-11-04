@@ -4,8 +4,7 @@
 <h1 align="center">Hi there 👋, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">Frontend Developer | Learning Backend | Open Source & Web Enthusiast</h3>
 
----
-![anwrulkarim](https://github.com/user-attachments/assets/30edd3fe-0747-42ea-a1fc-5745e03fd893)
+
 
 ## 🧑‍💻 About Me
 🚀 I'm a passionate **Frontend Developer** currently expanding my skills into backend development.  
