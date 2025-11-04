@@ -4,8 +4,8 @@
   <img 
     src="https://github.com/user-attachments/assets/faab0c0e-277f-400c-bae4-162c0967eebb" 
     alt="Anwarul Karim - GitHub Banner" 
-    width="200" 
-    height="200"
+    width="250" 
+    height="250"
     style="border-radius:50%;border:3px solid #0ea5e9; object-fit:cover;" 
   />
 </p>
