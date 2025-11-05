@@ -23,23 +23,25 @@
 <br>
 <br>
 
-## 🧑‍💻<strong> About Me </strong>
- <br/>
-🚀 A passionate rontend Developer exploring the world of backend technologies.  
-💡 I love creating clean, scalable, and user-friendly web applications.  
-🎯 Currently focused on mastering Next.js, Node.js, and TypeScript  
-📌 Goal: Become a Full-Stack Developer by 2025.
+
+## 🧑‍💻 About Me
+🚀 A passionate **Frontend Developer** exploring the world of **Backend technologies**.  
+💡 I love building **clean, scalable, and user-friendly** web applications.  
+🎯 Currently learning **Next.js**, **Node.js**, and **TypeScript**.  
+📌 Goal: Become a **Full-Stack Developer** by 2025.
 
 ---
 <br>
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/7935b121-9c6d-4971-9c0b-540e697db2b4" 
-    alt="Gradient Business Banner"
+    alt="Gradient Banner"
     width="100%"
     style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
   />
 </p>
+
+---
 
 
  <br/>
@@ -67,10 +69,59 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
+## 🛠️ Tech Stack & Tools
+
+### 🧩 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
+
+### ⚙️ Backend (Learning)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
 ### 🧰 Tools & Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarul-karim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarul-karim&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul-karim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
+|------------|----------------|--------------|-----------|
+| 🏨 **Tourism Website** | Explore, search & book tours | [Live](https://demo-link.com) | React, Tailwind, Firebase |
+| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live](https://demo-link.com) | React, Redux, Vite |
+| ✅ **Todo App (CRUD)** | Simple CRUD app using Local Storage | [Live](https://demo-link.com) | HTML, JS, Bootstrap |
+
+---
+
+## 🏆 Achievements & Activity
+- ⭐ 50+ Stars received across repositories  
+- 🔁 Contributed to Open Source (PRs + Issues)  
+- 📌 20+ Public Repositories  
+- 🧑‍🏫 Mentor in 2+ student coding groups  
+- 🔍 Solved 100+ coding challenges (JS & React)
+
+---
+
+## 🎓 Certifications & Learning Path
+📘 **Frontend Development** — freeCodeCamp, 2024  
+📗 **JavaScript & React** — Coursera, 2024  
+📙 **Backend Basics (Node.js + MongoDB)** — Udemy, 2025 *(Ongoing)*  
+📘 **Full-Stack Path** — Project-based learning (Next.js + Express)
 
 ---
 
@@ -89,74 +140,31 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siamsheikh-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siamsheikh-cyber&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsheikh-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
-
-</div>
-<br>
-
+## 🧩 Social Badges
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul-karim&layout=compact&theme=tokyonight" height="160" />
+  <a href="https://facebook.com/profile.php?id=100090871429446">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anwarul-karim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anwarul-karim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 Featured Projects
-| 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
-|------------|----------------|--------------|-----------|
-| 🏨 **Tourism Website** | Explore, search & book tours | [Live](https://demo-link.com) | React, Tailwind, Firebase |
-| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live](https://demo-link.com) | React, Redux, Vite |
-| ✅ **Todo App (CRUD)** | Simple CRUD app using Local Storage | [Live](https://demo-link.com) | HTML, JS, Bootstrap |
-
----
-
-## 🏆 Achievements & Activity
-- ⭐ 50+ Stars received across repositories  
-- 🔁 Contributed to Open Source (PRs + Issues)  
-- 📌 20+ Public Repositories  
-- 🧑‍🏫 Mentor in 2+ student coding groups  
-- 🔍 Solved 100+ coding challenges (JS & React)
-
-
-
-
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100090871429446">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100090871429446">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100090871429446">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anwarul-karim&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-<!-- Snake Game Repo View -->
-
+---
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
-
-## 🎓 Certifications & Learning Path
-📘 **Frontend Development** — freeCodeCamp, 2024  
-📗 **JavaScript & React** — Coursera, 2024  
-📙 **Backend Basics (Node.js + MongoDB)** — Udemy, 2025 *(Ongoing)*  
-📘 **Full-Stack Path** — Personal project-based learning (Next.js + Express)
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwarul-karim&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-<p align="center">✨ “Code is like humor — when you have to explain it, it’s bad.” ✨</p>
+<p align="center">✨ <strong>“Code is like humor — when you have to explain it, it’s bad.”</strong> ✨</p>
