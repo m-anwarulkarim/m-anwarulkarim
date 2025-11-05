@@ -18,7 +18,9 @@
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
 ---
-
+<br>
+<br>
+<br>
 
 ## 🧑‍💻 About Me
 🚀 A passionate **Frontend Developer** exploring the world of backend technologies.  
