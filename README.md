@@ -15,6 +15,7 @@
 
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
+<br>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
 ---
@@ -29,7 +30,7 @@
 📌 Goal: Become a **Full-Stack Developer** by 2025.
 
 ---
-
+<br>
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/7935b121-9c6d-4971-9c0b-540e697db2b4" 
