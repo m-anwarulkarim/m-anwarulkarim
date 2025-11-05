@@ -14,6 +14,7 @@
 
 
 
+
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
 <br>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
@@ -34,7 +35,7 @@
 <br>
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/7935b121-9c6d-4971-9c0b-540e697db2b4" 
+    src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" 
     alt="Gradient Banner"
     width="100%"
     style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
