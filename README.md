@@ -23,11 +23,12 @@
 <br>
 <br>
 
-## 🧑‍💻 About Me
-🚀 A passionate **Frontend Developer** exploring the world of backend technologies.  
+## 🧑‍💻<strong> About Me </strong>
+ <br/>
+🚀 A passionate rontend Developer exploring the world of backend technologies.  
 💡 I love creating clean, scalable, and user-friendly web applications.  
-🎯 Currently focused on mastering **Next.js, Node.js, and TypeScript**.  
-📌 Goal: Become a **Full-Stack Developer** by 2025.
+🎯 Currently focused on mastering Next.js, Node.js, and TypeScript  
+📌 Goal: Become a Full-Stack Developer by 2025.
 
 ---
 <br>
@@ -41,18 +42,20 @@
 </p>
 
 
-
+ <br/>
 
 ## 🔥 What I'm Currently Doing
-- 🌱 Learning: **Node.js, Express, MongoDB**
-- 🧪 Experimenting with: **Next.js + TypeScript**
-- 🛠️ Building: **Tourism Web App (React + Firebase)**
-- 🎨 Exploring: **Design Systems & Scalable Architectures**
+ <br/>
+- 🌱 Learning: Node.js, Express, MongoDB
+- 🧪 Experimenting with: Next.js + TypeScript
+- 🛠️ Building: Tourism Web App (React + Firebase)
+- 🎨 Exploring: Design Systems & Scalable Architectures
 
 ---
 
-
+ <br/>
 ## 🛠️ Tech Stack & Tools
+ <br/>
 
 ### 🧩 Frontend
 <p align="center">
