@@ -160,11 +160,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <p align="center">✨ <strong>“Code is like humor — when you have to explain it, it’s bad.”</strong> ✨</p>
