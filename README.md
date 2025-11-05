@@ -1,12 +1,12 @@
 <!-- ================= HEADER BANNER ================= -->
  <!-- ================= HEADER BANNER ================= -->
+<br>
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/faab0c0e-277f-400c-bae4-162c0967eebb" 
-    alt="Anwarul Karim - GitHub Banner" 
-    width="250" 
-    height="250"
-    style="border-radius:50%;border:3px solid #0ea5e9; object-fit:cover;" 
+    src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" 
+    alt="Gradient Banner"
+    width="100%"
+    style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
   />
 </p>
 
@@ -14,12 +14,11 @@
 
 
 
-
-<h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong> </h1>
 <br>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
----
+
 <br>
 <br>
 <br>
@@ -31,18 +30,10 @@
 🎯 Currently learning **Next.js**, **Node.js**, and **TypeScript**.  
 📌 Goal: Become a **Full-Stack Developer** by 2025.
 
----
-<br>
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" 
-    alt="Gradient Banner"
-    width="100%"
-    style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
-  />
-</p>
 
----
+
+
+
 
 
  <br/>
