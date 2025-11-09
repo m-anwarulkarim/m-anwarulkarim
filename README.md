@@ -82,12 +82,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarul-karim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarul-karim&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul-karim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="126" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="219" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" alt="Most Commit Language" height="160" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" alt="Repos per Language" height="160" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
+</div>
 ---
 
 ## 📌 Featured Projects
