@@ -80,21 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="126" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="219" alt="streak graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" alt="Most Commit Language" height="160" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" alt="Repos per Language" height="160" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
-</div>
----
 
 ## 📌 Featured Projects
 
@@ -106,32 +91,17 @@
 
 ---
 
-## 🏆 Achievements & Activity
-- ⭐ 50+ Stars received across repositories  
-- 🔁 Contributed to Open Source (PRs + Issues)  
-- 📌 20+ Public Repositories  
-- 🧑‍🏫 Mentor in 2+ student coding groups  
-- 🔍 Solved 100+ coding challenges (JS & React)
 
----
-
-## 🎓 Certifications & Learning Path
-📘 **Frontend Development** — freeCodeCamp, 2024  
-📗 **JavaScript & React** — Coursera, 2024  
-📙 **Backend Basics (Node.js + MongoDB)** — Udemy, 2025 *(Ongoing)*  
-📘 **Full-Stack Path** — Project-based learning (Next.js + Express)
-
----
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/anwarul-karim" target="_blank">
+  <a href="https://github.com/m-anwarulkarim" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-  <a href="https://linkedin.com/in/anwarul-karim" target="_blank">
+  <a href="https://www.linkedin.com/in/anwarul-karim-05235438b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="mailto:anwarul.dev@gmail.com" target="_blank">
+  <a href="mailto:anwarulkarim13@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
 </p>
@@ -140,24 +110,20 @@
 
 ## 🧩 Social Badges
 <p align="center">
-  <a href="https://facebook.com/profile.php?id=100090871429446">
+  <a href="https://www.facebook.com/profile.php?id=100090871429446">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/anwarul-karim">
+  <a href="https://www.linkedin.com/in/anwarul-karim-05235438b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anwarul-karim">
+  <a href="https://github.com/m-anwarulkarim">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwarul-karim&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
 
----
 ---
 
 <p align="center">✨ <strong>“Code is like humor — when you have to explain it, it’s bad.”</strong> ✨</p>
