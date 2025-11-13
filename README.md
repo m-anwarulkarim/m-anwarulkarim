@@ -32,6 +32,14 @@
 
 
 
+## 📈 My GitHub Stats
+### GitHub Stars
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=m-anwarulkarim&show_icons=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
