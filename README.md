@@ -92,11 +92,12 @@
 
 ## 📌 Featured Projects
 
-| 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
-|------------|----------------|--------------|-----------|
-| 🏨 **protfolio** | | [Live]([https://demo-link.com](https://my-protfolio-2.vercel.app/)) | React, Tailwind, |
-| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live]([https://demo-link.com](https://e-commers-phi-roan.vercel.app/)) | React, Redux, Vite |
-| ✅ **education** | Simple CRUD app using Local Storage | [Live]([https://demo-link.com](https://darul-ihsan.vercel.app/)) | HTML, JS, Bootstrap |
+| 🧠 Project          | 📝 Description                     | 🌐 Live Demo                                        | 🧰 Stack           |
+|--------------------|----------------------------------|---------------------------------------------------|------------------|
+| 🏨 **protfolio**     | Personal portfolio project         | [Live](https://my-protfolio-2.vercel.app/)      | React, Tailwind   |
+| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI    | [Live](https://e-commers-phi-roan.vercel.app/)  | React, Redux, Vite|
+| ✅ **education**      | Simple CRUD app using Local Storage | [Live](https://darul-ihsan.vercel.app/)         | HTML, JS, Bootstrap |
+✅ **education** | Simple CRUD app using Local Storage | [Live]([https://demo-link.com](https://darul-ihsan.vercel.app/)) | HTML, JS, Bootstrap |
 
 ---
 
