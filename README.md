@@ -94,9 +94,9 @@
 
 | 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
 |------------|----------------|--------------|-----------|
-| 🏨 **Tourism Website** | Explore, search & book tours | [Live](https://demo-link.com) | React, Tailwind, Firebase |
-| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live](https://demo-link.com) | React, Redux, Vite |
-| ✅ **Todo App (CRUD)** | Simple CRUD app using Local Storage | [Live](https://demo-link.com) | HTML, JS, Bootstrap |
+| 🏨 **protfolio** | | [Live]([https://demo-link.com](https://my-protfolio-2.vercel.app/)) | React, Tailwind, |
+| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live]([https://demo-link.com](https://e-commers-phi-roan.vercel.app/)) | React, Redux, Vite |
+| ✅ **education** | Simple CRUD app using Local Storage | [Live]([https://demo-link.com](https://darul-ihsan.vercel.app/)) | HTML, JS, Bootstrap |
 
 ---
 
