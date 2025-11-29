@@ -4,7 +4,7 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" 
-    alt="Gradient Banner"
+    alt="Gradient Banner."
     width="100%"
     style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;"
   />
@@ -123,4 +123,4 @@
 
 ---
 
-<p align="center">✨ <strong>“Code is like humor — when you have to explain it, it’s bad.”</strong> ✨</p>
+<p align="center">✨ “Code is like humour — when you have to explain it, it’s bad.” ✨</p>
