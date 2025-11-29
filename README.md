@@ -56,19 +56,6 @@
 
 ---
 
- <br/>
-## 🛠️ Tech Stack & Tools
- <br/>
-
-### 🧩 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
-</p>
-
-### ⚙️ Backend (Learning)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
 
 ## 🛠️ Tech Stack & Tools
 
