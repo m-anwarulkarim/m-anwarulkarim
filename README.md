@@ -39,26 +39,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-anwarulkarim&color=blue" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=m-anwarulkarim&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=radical" />
 </p>
 
 ### 📌 Top Languages
-<div align="center">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=radical)](https://github.com/m-anwarulkarim)
-</div>
+<p align="center">
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=react-dark)](https://github.com/m-anwarulkarim)
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-anwarulkarim&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/main/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
