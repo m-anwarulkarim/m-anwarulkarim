@@ -41,13 +41,15 @@
 
 ### 👁️‍🗨️ Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/m-anwarulkarim/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=m-anwarulkarim&color=blue" />
 </p>
 
 ### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=react&hide_border=true" />
-</p>
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=radical)](https://github.com/m-anwarulkarim)
+
+</div>
 
 ---
 
