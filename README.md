@@ -43,8 +43,11 @@
 
 ### 📌 Top Languages
 <p align="center">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=react-dark)](https://github.com/m-anwarulkarim)
+  <a href="https://github.com/m-anwarulkarim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anwarulkarim&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
+
 
 ---
 
