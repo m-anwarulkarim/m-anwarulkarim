@@ -1,6 +1,17 @@
 <!-- ================= HEADER BANNER ================= -->
+<!-- ================= BANNER IMAGE ================= -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;" />
+  <img 
+    src="https://github.com/user-attachments/assets/e0082123-30ba-4c56-98cb-772841892478" 
+    alt="Gradient Banner"
+    width="100%"
+    style="
+      max-width: 900px;
+      height: auto;
+      border-radius: 12px;
+      object-fit: cover;
+    "
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
