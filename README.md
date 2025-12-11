@@ -12,11 +12,7 @@
 </h2>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
-</picture>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -129,6 +125,13 @@
   <a href="mailto:anwarulkarim13@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
   <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
