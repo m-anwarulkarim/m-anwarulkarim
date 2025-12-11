@@ -41,8 +41,6 @@
   <img src="https://komarev.com/ghpvc/?username=m-anwarulkarim&color=blueviolet" alt="Visitor Count" />
 </p>
 
-### 📌 Top Languages
-### 📌 Top Languages
 
 ### 📌 Top Languages
 
