@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+Backend;Full+Stack+Developer+(Future);Open+Source+Enthusiast" />
 </h2>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🧑‍💻 About Me
