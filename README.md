@@ -12,7 +12,6 @@
 </h2>
 
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -128,12 +127,18 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arivan-amin/arivan-amin/refs/heads/main/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/refs/heads/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/refs/heads/main/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/refs/heads/main/pacman-contribution-graph.svg">
 </picture>
 
 ---
+
+<p align="center">
+  <img src="./metrics.plugin.skyline.svg" alt="Project Metrics" width="80%" style="border-radius: 10px; max-width: 80%; height: 350px; object-fit: cover;" />
+</p>
+
+
 
 <p align="center">✨ “Code is like humour — when you have to explain it, it’s bad.” ✨</p>
 <img src="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/main/wave.svg" width="100%" />
