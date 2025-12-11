@@ -135,7 +135,7 @@
 ---
 
 <p align="center">
-  <img src="./metrics.plugin.skyline.svg" alt="Project Metrics" width="80%" style="border-radius: 10px; max-width: 80%; height: 350px; object-fit: cover;" />
+  <img src="./metrics.plugin.skyline.svg" alt="Project Metrics" width="100%" style="border-radius: 10px; max-width: 100%; height: 300px; object-fit: cover;" />
 </p>
 
 
