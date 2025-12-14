@@ -1,19 +1,22 @@
 <!-- ================= HEADER BANNER ================= -->
 <!-- ================= BANNER IMAGE ================= -->
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;" />
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
 
-</br>
-</br>
+
+
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+Backend;Full+Stack+Developer+(Future);Open+Source+Enthusiast" />
 </h2>
 
+![Untitled file](https://github.com/user-attachments/assets/f06aee4f-7a11-46b2-8129-df56e89d230e)
 </br>
 </br>
 
