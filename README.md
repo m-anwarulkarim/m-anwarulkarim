@@ -100,9 +100,11 @@
 </br>
 </br>
 
+![]()<br/>
+
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-anwarulkarim&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=m-anwarulkarim&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A&hide_border=false&layout=default" />
 </p>
 
 </br>
