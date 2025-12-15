@@ -2,8 +2,9 @@
 <!-- ================= BANNER IMAGE ================= -->
 
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3aa5bbc-92a9-4ef5-a3be-06c45b2bd94d" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; height: auto; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/bc119eab-efee-4962-9263-8e629f270655" alt="Gradient Banner" width="100%" style="border-radius: 10px; max-width: 100%; max-height: 50%; object-fit: cover;" />
 
 <h1 align="center">👋 Hi, I'm <strong>Anwarul Karim</strong></h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend | 🌐 Web & Open Source Enthusiast</h3>
