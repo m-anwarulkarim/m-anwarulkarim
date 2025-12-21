@@ -171,7 +171,7 @@
 | 🧠 Project           | 📝 Description                      | 🌐 Live Demo                                   | 🧰 Stack            |
 |---------------------|-----------------------------------|----------------------------------------------|-------------------|
 | 🏨 **Portfolio**     | Personal portfolio project          | [Live](https://my-protfolio-2.vercel.app/)     | React, Tailwind     |
-| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI       | [Live](https://e-commers-phi-roan.vercel.app/) | React, Redux, Vite  |
+| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI       | [Live](https://ab-seed.vercel.app/) | React, Redux, Vite  |
 | ✅ **Education**      | Simple CRUD app using Local Storage | [Live](https://darul-ihsan.vercel.app/)        | HTML, JS, Bootstrap |
 
 </br>
