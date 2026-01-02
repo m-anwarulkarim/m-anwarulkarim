@@ -196,11 +196,7 @@
 
 ---
 
-<p align="center">
-  <img src="./metrics.plugin.skyline.svg" alt="Project Metrics" width="100%" style="border-radius: 10px; max-width: 100%; height: 300px; object-fit: cover;" />
-</p>
 
 
 
 <p align="center">✨ “Code is like humour — when you have to explain it, it’s bad.” ✨</p>
-<img src="https://raw.githubusercontent.com/m-anwarulkarim/m-anwarulkarim/main/wave.svg" width="100%" />
