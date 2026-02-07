@@ -1,5 +1,4 @@
 <!-- ================= HEADER BANNER ================= -->
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/695110f3-9836-4cf9-842b-5518bd755a4e" alt="Gradient Banner" width="100%" style="border-radius: 10px;" />
 </p>
@@ -110,3 +109,11 @@
 ---
 
 <p align="center">✨ “First make it work. Then make it right. Then make it fast.” ✨</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/tarikul3639/tarikul3639/main/assets/engin.gif" 
+    alt="js-bg" 
+    width="600" 
+  />
+</p>
