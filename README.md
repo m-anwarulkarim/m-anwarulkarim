@@ -94,7 +94,23 @@
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=m-anwarulkarim&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
+  <img src="https://streak-stats.demolab.com/?user=m-anwarulkarim&theme=dark&background=0b0f1a&title=94018A&side_nums=ffe4f2&side_lbls=ffe4f2&dates=ffe4f2&border=94018A" />
+</p>
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 👾 Pacman Contribution Graph
+
+<p align="center">
+  <img src="./pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
 
 ---
